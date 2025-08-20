@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weekly-todo-app/static/css/main.3a8d739f.css",
+    "main.js": "/weekly-todo-app/static/js/main.c8d4ba96.js",
+    "index.html": "/weekly-todo-app/index.html",
+    "main.3a8d739f.css.map": "/weekly-todo-app/static/css/main.3a8d739f.css.map",
+    "main.c8d4ba96.js.map": "/weekly-todo-app/static/js/main.c8d4ba96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a8d739f.css",
+    "static/js/main.c8d4ba96.js"
+  ]
+}
